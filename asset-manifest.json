@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/petri/static/css/main.62c161fd.css",
+    "main.js": "/petri/static/js/main.b0a666a6.js",
+    "static/js/787.c7bb0afd.chunk.js": "/petri/static/js/787.c7bb0afd.chunk.js",
+    "index.html": "/petri/index.html",
+    "main.62c161fd.css.map": "/petri/static/css/main.62c161fd.css.map",
+    "main.b0a666a6.js.map": "/petri/static/js/main.b0a666a6.js.map",
+    "787.c7bb0afd.chunk.js.map": "/petri/static/js/787.c7bb0afd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c161fd.css",
+    "static/js/main.b0a666a6.js"
+  ]
+}
