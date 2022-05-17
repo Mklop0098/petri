@@ -1,0 +1,64 @@
+.img-3 {
+    width: 700px;
+    height: 450px;
+    position: relative;
+    background-image: url("https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/279370360_715105732865273_998830893035256359_n.png?_nc_cat=100&ccb=1-6&_nc_sid=ae9488&_nc_ohc=o5LKKvOHExwAX_tMSyu&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVKnjw90ZZrkPrJs19Ok4PJUTylFglTmbfzTcm0vzV7fIw&oe=62AAAF26");
+}
+
+.circles4, .circles5, .circles6, .circles7, .circles8, .circles9 {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 99px;
+    left: 186px;
+    text-align: center;
+    line-height: 55px;
+    border: 2px solid black;
+}
+
+.circles5 {
+    left: 462px;
+}
+
+.circles6 {
+    left: 324px;
+    top: 213px;
+}
+
+.circles7 {
+    left: 321px;
+    top: 323px;
+}
+
+.circles8 {
+    left: 626px;
+    top: 211px;
+}
+.circles9 {
+    left: 47px;
+    top: 214px;
+}
+
+.square3, .square4, .square5 {
+    width: 52px;
+    height: 52px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 215px;
+    left: 186px;
+    text-align: center;
+    line-height: 55px;
+    border: 2px solid black;
+}
+
+.square4 {
+    top: 215px;
+    left: 464px;
+}
+
+.square5 {
+    top: 100px;
+    left: 321px;
+}

@@ -1,0 +1,46 @@
+.img {
+    background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/277974473_569796177912239_706872628304002428_n.png?_nc_cat=107&ccb=1-6&_nc_sid=aee45a&_nc_ohc=G2Tqn7jp4MEAX-xvteu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKVCTX1AZB4FBX5L_J7TOLk5FCxgLkKSkHomKYfc7uHtQ&oe=62A88954");
+    width: 550px;
+    height: 160px;
+    position: relative;
+}
+
+.circle1, .circle2, .circle3{
+    width: 57px;
+    height: 57px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 66px;
+    left: 52px;
+    text-align: center;
+    line-height: 55px;
+    border: 2px solid black;
+}
+
+.circle2 {
+    top: 66px;
+    left: 253px;
+}
+
+.circle3 {
+    top: 66px;
+    left: 457px;
+}
+
+.square1, .square2 {
+    width: 57px;
+    height: 57px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 66px;
+    left: 149px;
+    text-align: center;
+    line-height: 55px;
+    border: 2px solid black;
+}
+
+.square2 {
+    left: 355px;
+
+}
